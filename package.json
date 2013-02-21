@@ -1,0 +1,31 @@
+{
+  "name": "node-i2c-basic",
+  "version": "0.1.0",
+  "author": "David Bond <dave@dave-bond.com>",
+  "description": "Basic linux I2C binding for node.js",
+  "contributors": [ 
+    {
+      "name": "David Bond",
+      "email": "dave@dave-bond.com"
+    } 
+  ],
+  "main": "./build/Release/i2c.node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davebond/node-i2c.git"
+  },
+  "keywords": [
+    "I2C"
+  ],
+  "dependencies" : {
+  },
+  "analyze": false,
+  "devDependencies": {
+  },
+  "bundledDependencies": [
+  ],  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
